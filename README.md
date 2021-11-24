@@ -11,4 +11,6 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=thomasmerz&show_icons=true)  
   
+![trophy](https://github-profile-trophy.vercel.app/?username=thomasmerz&column=3&margin-w=10&margin-h=10)  
+  
 [GitMemory Stats](https://www.gitmemory.com/thomasmerz)
