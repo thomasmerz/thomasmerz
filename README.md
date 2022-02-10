@@ -41,5 +41,17 @@ Have a look at my complete [GitMemory Stats](https://www.gitmemory.com/thomasmer
   
 ---
   
+![My Achievmens](/metrics.plugin.achievements.svg)
+  
+---
+  
+![My Languages Details](/metrics.plugin.languages.details.svg)
+  
+---
+  
+![My Languages Indepth](/metrics.plugin.languages.indepth.svg)
+  
+---
+  
 Have a look at my complete [Metrics Insights](https://metrics.lecoq.io/about/thomasmerz)
 
