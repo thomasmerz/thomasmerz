@@ -13,7 +13,7 @@ jobs:
   update-svg:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@master
       - name: Indepth analysis
         uses: lowlighter/metrics@latest
         with:
