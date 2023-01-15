@@ -187,17 +187,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 57.5006869952995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 57.47876096439047%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">72%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 7.564999397372544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.562114729044543%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.27932987826925393%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.2792233648367231%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
