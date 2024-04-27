@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.4036815086521" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="259.4036815086521" y="0" width="91.67571391873055" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="351.0793954273826" y="0" width="73.4357518764801" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="424.51514730386276" y="0" width="35.48485269613726" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.37855819437425" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="259.37855819437425" y="0" width="91.66683510190332" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="351.04539329627755" y="0" width="73.42799393633148" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="424.47338723260907" y="0" width="35.52661276739094" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -74,8 +74,8 @@
                                 JSON
                             </div>
                             <small>
-                                <div>54.9 kB</div>
-                                <div>7.71%</div>
+                                <div>55 kB</div>
+                                <div>7.72%</div>
                             </small>
                         </div>
                     </section>
