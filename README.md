@@ -1,5 +1,10 @@
 ### Welcome to my GitHub Profile!
   
+- See my latest talk at [GPN22](https://media.ccc.de/c/gpn22?sort=date) about #privacy #datenschutz #tracking #malware  
+  and how to do some digital selfdefense against it  
+  by using #opensource tools like #pihole and a #vpn with #wireguard:  
+  [Privacy to go (GPN22)](https://github.com/thomasmerz/talks/tree/main/2024_05_30_GPN22_Privacy_to_go)  
+  Learn more about the [GPN](https://entropia.de/GPN22)!
 - Married, dad of three boys
 - 🐧 Linux since 1994
 - 🚫 No Windows please!
