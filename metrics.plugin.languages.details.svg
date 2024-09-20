@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="264.7889264276577" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="264.7889264276577" y="0" width="93.54413356512612" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="358.3330599927838" y="0" width="68.50395250434612" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="426.8370124971299" y="0" width="33.162987502870074" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="264.809319586335" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="264.809319586335" y="0" width="93.55133802184136" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="358.3606576081763" y="0" width="68.50594811073854" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="426.8666057189149" y="0" width="33.13339428108514" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                             </div>
                             <small>
                                 <div>403 kB</div>
-                                <div>57.56%</div>
+                                <div>57.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -75,7 +75,7 @@
                             </div>
                             <small>
                                 <div>50.5 kB</div>
-                                <div>7.21%</div>
+                                <div>7.2%</div>
                             </small>
                         </div>
                     </section>
