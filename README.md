@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3398](https://github.com/thomasmerz/upptime/issues/3398#issuecomment-2670534281) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2. 🔒 Closed issue [#3398](https://github.com/thomasmerz/upptime/issues/3398) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. 🗣 Commented on [#3397](https://github.com/thomasmerz/upptime/issues/3397#issuecomment-2670534215) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. 🔒 Closed issue [#3397](https://github.com/thomasmerz/upptime/issues/3397) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. ❗ Opened issue [#3398](https://github.com/thomasmerz/upptime/issues/3398) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🎉 Merged PR [#14](https://github.com/thomasmerz/activity-box/pull/14) in [thomasmerz/activity-box](https://github.com/thomasmerz/activity-box)
+2. 🎉 Merged PR [#10](https://github.com/thomasmerz/activity-box/pull/10) in [thomasmerz/activity-box](https://github.com/thomasmerz/activity-box)
+3. 🎉 Merged PR [#8](https://github.com/thomasmerz/activity-box/pull/8) in [thomasmerz/activity-box](https://github.com/thomasmerz/activity-box)
+4. 🎉 Merged PR [#11](https://github.com/thomasmerz/activity-box/pull/11) in [thomasmerz/activity-box](https://github.com/thomasmerz/activity-box)
+5. 🎉 Merged PR [#15](https://github.com/thomasmerz/activity-box/pull/15) in [thomasmerz/activity-box](https://github.com/thomasmerz/activity-box)
 <!--END_SECTION:activity-->
 
 ---
