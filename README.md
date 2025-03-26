@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#449](https://github.com/pi-hole/PADD/issues/449) in [pi-hole/PADD](https://github.com/pi-hole/PADD)
-2. 🗣 Commented on [#449](https://github.com/pi-hole/PADD/issues/449#issuecomment-2732751611) in [pi-hole/PADD](https://github.com/pi-hole/PADD)
-3. 🗣 Commented on [#449](https://github.com/pi-hole/PADD/issues/449#issuecomment-2732741750) in [pi-hole/PADD](https://github.com/pi-hole/PADD)
-4. ❗ Opened issue [#449](https://github.com/pi-hole/PADD/issues/449) in [pi-hole/PADD](https://github.com/pi-hole/PADD)
-5. 🗣 Commented on [#3473](https://github.com/thomasmerz/upptime/issues/3473#issuecomment-2725662364) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🗣 Commented on [#3474](https://github.com/thomasmerz/upptime/issues/3474#issuecomment-2753193087) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. 🔒 Closed issue [#3474](https://github.com/thomasmerz/upptime/issues/3474) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. ❗ Opened issue [#3474](https://github.com/thomasmerz/upptime/issues/3474) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. 🔒 Closed issue [#449](https://github.com/pi-hole/PADD/issues/449) in [pi-hole/PADD](https://github.com/pi-hole/PADD)
+5. 🗣 Commented on [#449](https://github.com/pi-hole/PADD/issues/449#issuecomment-2732751611) in [pi-hole/PADD](https://github.com/pi-hole/PADD)
 <!--END_SECTION:activity-->
 
 ---
