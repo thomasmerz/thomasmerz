@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#51941](https://github.com/nextcloud/server/issues/51941) in [nextcloud/server](https://github.com/nextcloud/server)
-2. 🔒 Closed issue [#3503](https://github.com/thomasmerz/upptime/issues/3503) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. 🗣 Commented on [#3503](https://github.com/thomasmerz/upptime/issues/3503#issuecomment-2777466600) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. ❗ Opened issue [#3503](https://github.com/thomasmerz/upptime/issues/3503) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. 🗣 Commented on [#3487](https://github.com/thomasmerz/upptime/issues/3487#issuecomment-2776889429) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🗣 Commented on [#1005](https://github.com/OpenPrinting/cups/issues/1005#issuecomment-2784608349) in [OpenPrinting/cups](https://github.com/OpenPrinting/cups)
+2. ❗ Opened issue [#51941](https://github.com/nextcloud/server/issues/51941) in [nextcloud/server](https://github.com/nextcloud/server)
+3. 🔒 Closed issue [#3503](https://github.com/thomasmerz/upptime/issues/3503) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. 🗣 Commented on [#3503](https://github.com/thomasmerz/upptime/issues/3503#issuecomment-2777466600) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. ❗ Opened issue [#3503](https://github.com/thomasmerz/upptime/issues/3503) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
