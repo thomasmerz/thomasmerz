@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.3039703132475" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="295.3039703132475" y="0" width="80.66964307284947" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="375.97361338609693" y="0" width="57.988147525379176" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="433.9617609114761" y="0" width="26.038239088523927" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.2975495915986" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="295.2975495915986" y="0" width="80.66788909262655" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="375.96543868422515" y="0" width="57.98466411068511" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="433.95010279491026" y="0" width="26.04989720508974" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
