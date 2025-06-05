@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6285](https://github.com/pi-hole/pi-hole/issues/6285) in [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
-2. 🗣 Commented on [#3605](https://github.com/thomasmerz/upptime/issues/3605#issuecomment-2944124860) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. 🔒 Closed issue [#3605](https://github.com/thomasmerz/upptime/issues/3605) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. 🔒 Closed issue [#3604](https://github.com/thomasmerz/upptime/issues/3604) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. 🗣 Commented on [#3604](https://github.com/thomasmerz/upptime/issues/3604#issuecomment-2944124473) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. ❗ Opened issue [#1831](https://github.com/pi-hole/docker-pi-hole/issues/1831) in [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
+2. ❗ Opened issue [#3607](https://github.com/thomasmerz/upptime/issues/3607) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. ❗ Opened issue [#3606](https://github.com/thomasmerz/upptime/issues/3606) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. ❗ Opened issue [#6285](https://github.com/pi-hole/pi-hole/issues/6285) in [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
+5. 🗣 Commented on [#3605](https://github.com/thomasmerz/upptime/issues/3605#issuecomment-2944124860) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
