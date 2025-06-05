@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/thomasmerz/lang-box/pull/4) in [thomasmerz/lang-box](https://github.com/thomasmerz/lang-box)
-2. ❗ Opened issue [#271](https://github.com/cloud-py-api/mediadc/issues/271) in [cloud-py-api/mediadc](https://github.com/cloud-py-api/mediadc)
-3. 🗣 Commented on [#3602](https://github.com/thomasmerz/upptime/issues/3602#issuecomment-2929493010) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. 🗣 Commented on [#3602](https://github.com/thomasmerz/upptime/issues/3602#issuecomment-2929491766) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. 🔒 Closed issue [#3602](https://github.com/thomasmerz/upptime/issues/3602) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. ❗ Opened issue [#6285](https://github.com/pi-hole/pi-hole/issues/6285) in [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
+2. 🗣 Commented on [#3605](https://github.com/thomasmerz/upptime/issues/3605#issuecomment-2944124860) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. 🔒 Closed issue [#3605](https://github.com/thomasmerz/upptime/issues/3605) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. 🔒 Closed issue [#3604](https://github.com/thomasmerz/upptime/issues/3604) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. 🗣 Commented on [#3604](https://github.com/thomasmerz/upptime/issues/3604#issuecomment-2944124473) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
