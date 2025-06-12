@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#704](https://github.com/mediathekview/MediathekView/issues/704#issuecomment-2958383410) in [mediathekview/MediathekView](https://github.com/mediathekview/MediathekView)
-2. 🗣 Commented on [#3614](https://github.com/thomasmerz/upptime/issues/3614#issuecomment-2953616294) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. 🔒 Closed issue [#3614](https://github.com/thomasmerz/upptime/issues/3614) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. ❗ Opened issue [#3614](https://github.com/thomasmerz/upptime/issues/3614) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. 🗣 Commented on [#1802](https://github.com/pi-hole/docker-pi-hole/issues/1802#issuecomment-2953138497) in [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
+1. 🗣 Commented on [#6281](https://github.com/pi-hole/pi-hole/issues/6281#issuecomment-2966497864) in [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
+2. 🗣 Commented on [#704](https://github.com/mediathekview/MediathekView/issues/704#issuecomment-2958383410) in [mediathekview/MediathekView](https://github.com/mediathekview/MediathekView)
+3. 🗣 Commented on [#3614](https://github.com/thomasmerz/upptime/issues/3614#issuecomment-2953616294) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. 🔒 Closed issue [#3614](https://github.com/thomasmerz/upptime/issues/3614) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. ❗ Opened issue [#3614](https://github.com/thomasmerz/upptime/issues/3614) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
