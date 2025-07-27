@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3658](https://github.com/thomasmerz/upptime/issues/3658) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2. ❗ Opened issue [#3657](https://github.com/thomasmerz/upptime/issues/3657) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. ❗ Opened issue [#3656](https://github.com/thomasmerz/upptime/issues/3656) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. ❗ Opened issue [#3655](https://github.com/thomasmerz/upptime/issues/3655) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. ❗ Opened issue [#3654](https://github.com/thomasmerz/upptime/issues/3654) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🔒 Closed issue [#3658](https://github.com/thomasmerz/upptime/issues/3658) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. 🗣 Commented on [#3658](https://github.com/thomasmerz/upptime/issues/3658#issuecomment-3124079456) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. 🔒 Closed issue [#3657](https://github.com/thomasmerz/upptime/issues/3657) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. 🗣 Commented on [#3657](https://github.com/thomasmerz/upptime/issues/3657#issuecomment-3124079175) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. 🔒 Closed issue [#3656](https://github.com/thomasmerz/upptime/issues/3656) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
