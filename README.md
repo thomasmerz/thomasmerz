@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3695](https://github.com/thomasmerz/upptime/issues/3695) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2. 🗣 Commented on [#3695](https://github.com/thomasmerz/upptime/issues/3695#issuecomment-3197762521) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. ❗ Opened issue [#3695](https://github.com/thomasmerz/upptime/issues/3695) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. 🔒 Closed issue [#3694](https://github.com/thomasmerz/upptime/issues/3694) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. 🗣 Commented on [#3694](https://github.com/thomasmerz/upptime/issues/3694#issuecomment-3197590024) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🗣 Commented on [#286](https://github.com/spotizerr-dev/spotizerr/issues/286#issuecomment-3206853894) in [spotizerr-dev/spotizerr](https://github.com/spotizerr-dev/spotizerr)
+2. 🔒 Closed issue [#3695](https://github.com/thomasmerz/upptime/issues/3695) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. 🗣 Commented on [#3695](https://github.com/thomasmerz/upptime/issues/3695#issuecomment-3197762521) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. ❗ Opened issue [#3695](https://github.com/thomasmerz/upptime/issues/3695) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. 🔒 Closed issue [#3694](https://github.com/thomasmerz/upptime/issues/3694) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
