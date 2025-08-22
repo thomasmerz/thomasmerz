@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#284](https://github.com/spotizerr-dev/spotizerr/issues/284#issuecomment-3206869591) in [spotizerr-dev/spotizerr](https://github.com/spotizerr-dev/spotizerr)
-2. 🗣 Commented on [#286](https://github.com/spotizerr-dev/spotizerr/issues/286#issuecomment-3206853894) in [spotizerr-dev/spotizerr](https://github.com/spotizerr-dev/spotizerr)
-3. 🔒 Closed issue [#3695](https://github.com/thomasmerz/upptime/issues/3695) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. 🗣 Commented on [#3695](https://github.com/thomasmerz/upptime/issues/3695#issuecomment-3197762521) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. ❗ Opened issue [#3695](https://github.com/thomasmerz/upptime/issues/3695) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🗣 Commented on [#293](https://github.com/spotizerr-dev/spotizerr/issues/293#issuecomment-3213679756) in [spotizerr-dev/spotizerr](https://github.com/spotizerr-dev/spotizerr)
+2. 🗣 Commented on [#284](https://github.com/spotizerr-dev/spotizerr/issues/284#issuecomment-3206869591) in [spotizerr-dev/spotizerr](https://github.com/spotizerr-dev/spotizerr)
+3. 🗣 Commented on [#286](https://github.com/spotizerr-dev/spotizerr/issues/286#issuecomment-3206853894) in [spotizerr-dev/spotizerr](https://github.com/spotizerr-dev/spotizerr)
+4. 🔒 Closed issue [#3695](https://github.com/thomasmerz/upptime/issues/3695) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. 🗣 Commented on [#3695](https://github.com/thomasmerz/upptime/issues/3695#issuecomment-3197762521) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
