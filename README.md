@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16069](https://github.com/nextcloud/spreed/issues/16069#issuecomment-3356466870) in [nextcloud/spreed](https://github.com/nextcloud/spreed)
-2. 🔒 Closed issue [#16069](https://github.com/nextcloud/spreed/issues/16069) in [nextcloud/spreed](https://github.com/nextcloud/spreed)
-3. ❗ Opened issue [#16069](https://github.com/nextcloud/spreed/issues/16069) in [nextcloud/spreed](https://github.com/nextcloud/spreed)
-4. 🗣 Commented on [#3751](https://github.com/thomasmerz/upptime/issues/3751#issuecomment-3355548397) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. 🔒 Closed issue [#3751](https://github.com/thomasmerz/upptime/issues/3751) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. ❗ Opened issue [#3754](https://github.com/thomasmerz/upptime/issues/3754) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. 🗣 Commented on [#16069](https://github.com/nextcloud/spreed/issues/16069#issuecomment-3356466870) in [nextcloud/spreed](https://github.com/nextcloud/spreed)
+3. 🔒 Closed issue [#16069](https://github.com/nextcloud/spreed/issues/16069) in [nextcloud/spreed](https://github.com/nextcloud/spreed)
+4. ❗ Opened issue [#16069](https://github.com/nextcloud/spreed/issues/16069) in [nextcloud/spreed](https://github.com/nextcloud/spreed)
+5. 🗣 Commented on [#3751](https://github.com/thomasmerz/upptime/issues/3751#issuecomment-3355548397) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
