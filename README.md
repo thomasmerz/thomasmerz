@@ -17,7 +17,7 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3785](https://github.com/thomasmerz/upptime/issues/3785#issuecomment-3395433049) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. ❗ Opened issue [#919](https://github.com/9001/copyparty/issues/919) in [9001/copyparty](https://github.com/9001/copyparty)
 2. 🔒 Closed issue [#3785](https://github.com/thomasmerz/upptime/issues/3785) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 3. ❗ Opened issue [#3785](https://github.com/thomasmerz/upptime/issues/3785) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 4. 🗣 Commented on [#3784](https://github.com/thomasmerz/upptime/issues/3784#issuecomment-3393588959) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
