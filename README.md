@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2652](https://github.com/pi-hole/FTL/issues/2652) in [pi-hole/FTL](https://github.com/pi-hole/FTL)
-2. ❗ Opened issue [#919](https://github.com/9001/copyparty/issues/919) in [9001/copyparty](https://github.com/9001/copyparty)
-3. ❗ Opened issue [#3785](https://github.com/thomasmerz/upptime/issues/3785) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. 🗣 Commented on [#3784](https://github.com/thomasmerz/upptime/issues/3784#issuecomment-3393588959) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. 🔒 Closed issue [#3784](https://github.com/thomasmerz/upptime/issues/3784) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🔒 Closed issue [#3788](https://github.com/thomasmerz/upptime/issues/3788) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. 🗣 Commented on [#3788](https://github.com/thomasmerz/upptime/issues/3788#issuecomment-3413470441) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3.  Labeled issue [#3788](https://github.com/thomasmerz/upptime/issues/3788) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4.  Labeled issue [#3788](https://github.com/thomasmerz/upptime/issues/3788) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5.  Assigned issue [#3788](https://github.com/thomasmerz/upptime/issues/3788) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
