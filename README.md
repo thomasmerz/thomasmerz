@@ -17,9 +17,9 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3791](https://github.com/thomasmerz/upptime/issues/3791) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2. 🗣 Commented on [#3791](https://github.com/thomasmerz/upptime/issues/3791#issuecomment-3420082533) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3.  Assigned issue [#3791](https://github.com/thomasmerz/upptime/issues/3791) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🗣 Commented on [#919](https://github.com/9001/copyparty/issues/919#issuecomment-3443723988) in [9001/copyparty](https://github.com/9001/copyparty)
+2. 🔒 Closed issue [#919](https://github.com/9001/copyparty/issues/919) in [9001/copyparty](https://github.com/9001/copyparty)
+3. 🗣 Commented on [#667](https://github.com/9001/copyparty/issues/667#issuecomment-3443712919) in [9001/copyparty](https://github.com/9001/copyparty)
 4.  Labeled issue [#3791](https://github.com/thomasmerz/upptime/issues/3791) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 5.  Labeled issue [#3791](https://github.com/thomasmerz/upptime/issues/3791) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
