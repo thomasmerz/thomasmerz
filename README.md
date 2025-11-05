@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#3824](https://github.com/thomasmerz/upptime/issues/3824) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2.  Labeled issue [#3824](https://github.com/thomasmerz/upptime/issues/3824) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. ❗ Opened issue [#3824](https://github.com/thomasmerz/upptime/issues/3824) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4.  Assigned issue [#3824](https://github.com/thomasmerz/upptime/issues/3824) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. 🔒 Closed issue [#6461](https://github.com/pi-hole/pi-hole/issues/6461) in [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
+1. 🔒 Closed issue [#3824](https://github.com/thomasmerz/upptime/issues/3824) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. 🗣 Commented on [#3824](https://github.com/thomasmerz/upptime/issues/3824#issuecomment-3491440128) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3.  Labeled issue [#3824](https://github.com/thomasmerz/upptime/issues/3824) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4.  Labeled issue [#3824](https://github.com/thomasmerz/upptime/issues/3824) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. ❗ Opened issue [#3824](https://github.com/thomasmerz/upptime/issues/3824) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
