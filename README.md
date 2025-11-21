@@ -17,10 +17,10 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3865](https://github.com/thomasmerz/upptime/issues/3865) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2. 🗣 Commented on [#3865](https://github.com/thomasmerz/upptime/issues/3865#issuecomment-3554230339) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3.  Assigned issue [#3865](https://github.com/thomasmerz/upptime/issues/3865) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4.  Labeled issue [#3865](https://github.com/thomasmerz/upptime/issues/3865) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. ❌ Closed PR [#69](undefined) in [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest)
+2. 🔒 Closed issue [#3865](https://github.com/thomasmerz/upptime/issues/3865) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. 🗣 Commented on [#3865](https://github.com/thomasmerz/upptime/issues/3865#issuecomment-3554230339) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4.  Assigned issue [#3865](https://github.com/thomasmerz/upptime/issues/3865) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 5.  Labeled issue [#3865](https://github.com/thomasmerz/upptime/issues/3865) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
