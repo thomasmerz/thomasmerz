@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#69](undefined) in [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest)
-2. 🔒 Closed issue [#3865](https://github.com/thomasmerz/upptime/issues/3865) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. 🗣 Commented on [#3865](https://github.com/thomasmerz/upptime/issues/3865#issuecomment-3554230339) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4.  Assigned issue [#3865](https://github.com/thomasmerz/upptime/issues/3865) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5.  Labeled issue [#3865](https://github.com/thomasmerz/upptime/issues/3865) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🗣 Commented on [#4](https://github.com/thomasmerz/pihole_adlist_tool/pull/4#issuecomment-3563367886) in [thomasmerz/pihole_adlist_tool](https://github.com/thomasmerz/pihole_adlist_tool)
+2. 🗣 Commented on [#17](https://github.com/ct-Open-Source/ctraspion/pull/17#issuecomment-3563338112) in [ct-Open-Source/ctraspion](https://github.com/ct-Open-Source/ctraspion)
+3. ❌ Closed PR [#17](undefined) in [ct-Open-Source/ctraspion](https://github.com/ct-Open-Source/ctraspion)
+4. 🗣 Commented on [#509](https://github.com/dvorka/hstr/pull/509#issuecomment-3563314359) in [dvorka/hstr](https://github.com/dvorka/hstr)
+5. ❌ Closed PR [#509](undefined) in [dvorka/hstr](https://github.com/dvorka/hstr)
 <!--END_SECTION:activity-->
 
 ---
