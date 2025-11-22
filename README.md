@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#3872](https://github.com/thomasmerz/upptime/issues/3872) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2.  Labeled issue [#3872](https://github.com/thomasmerz/upptime/issues/3872) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3.  Labeled issue [#3872](https://github.com/thomasmerz/upptime/issues/3872) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. ❗ Opened issue [#3872](https://github.com/thomasmerz/upptime/issues/3872) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. 🗣 Commented on [#4](https://github.com/thomasmerz/pihole_adlist_tool/pull/4#issuecomment-3563367886) in [thomasmerz/pihole_adlist_tool](https://github.com/thomasmerz/pihole_adlist_tool)
+1. 🗣 Commented on [#3872](https://github.com/thomasmerz/upptime/issues/3872#issuecomment-3566480823) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. 🔒 Closed issue [#3872](https://github.com/thomasmerz/upptime/issues/3872) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3.  Assigned issue [#3872](https://github.com/thomasmerz/upptime/issues/3872) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4.  Labeled issue [#3872](https://github.com/thomasmerz/upptime/issues/3872) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5.  Labeled issue [#3872](https://github.com/thomasmerz/upptime/issues/3872) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
