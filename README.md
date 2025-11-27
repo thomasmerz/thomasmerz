@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#273](https://github.com/upptime/uptime-monitor/pull/273#issuecomment-3585900020) in [upptime/uptime-monitor](https://github.com/upptime/uptime-monitor)
-2. 💪 Opened PR [#273](undefined) in [upptime/uptime-monitor](https://github.com/upptime/uptime-monitor)
-3. 🔒 Closed issue [#3875](https://github.com/thomasmerz/upptime/issues/3875) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. 🗣 Commented on [#3875](https://github.com/thomasmerz/upptime/issues/3875#issuecomment-3568821821) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5.  Labeled issue [#3875](https://github.com/thomasmerz/upptime/issues/3875) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1.  Assigned issue [#3877](https://github.com/thomasmerz/upptime/issues/3877) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2.  Labeled issue [#3877](https://github.com/thomasmerz/upptime/issues/3877) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3.  Labeled issue [#3877](https://github.com/thomasmerz/upptime/issues/3877) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. ❗ Opened issue [#3877](https://github.com/thomasmerz/upptime/issues/3877) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. 🗣 Commented on [#273](https://github.com/upptime/uptime-monitor/pull/273#issuecomment-3585900020) in [upptime/uptime-monitor](https://github.com/upptime/uptime-monitor)
 <!--END_SECTION:activity-->
 
 ---
