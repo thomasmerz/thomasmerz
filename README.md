@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3938](https://github.com/thomasmerz/upptime/issues/3938) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2. 🗣 Commented on [#3938](https://github.com/thomasmerz/upptime/issues/3938#issuecomment-3685197999) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3.  Assigned issue [#3938](https://github.com/thomasmerz/upptime/issues/3938) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4.  Labeled issue [#3938](https://github.com/thomasmerz/upptime/issues/3938) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5.  Labeled issue [#3938](https://github.com/thomasmerz/upptime/issues/3938) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1.  Labeled issue [#3947](https://github.com/thomasmerz/upptime/issues/3947) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2.  Labeled issue [#3947](https://github.com/thomasmerz/upptime/issues/3947) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. ❗ Opened issue [#3947](https://github.com/thomasmerz/upptime/issues/3947) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4.  Assigned issue [#3947](https://github.com/thomasmerz/upptime/issues/3947) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. 🔒 Closed issue [#3938](https://github.com/thomasmerz/upptime/issues/3938) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
