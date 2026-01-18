@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#4004](https://github.com/thomasmerz/upptime/issues/4004) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2. ℹ️ Labeled issue [#4004](https://github.com/thomasmerz/upptime/issues/4004) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. ℹ️ Assigned issue [#4004](https://github.com/thomasmerz/upptime/issues/4004) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. ❗ Opened issue [#4004](https://github.com/thomasmerz/upptime/issues/4004) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. ℹ️ Labeled issue [#15607](https://github.com/yt-dlp/yt-dlp/issues/15607) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+1. ℹ️ Assigned issue [#4005](https://github.com/thomasmerz/upptime/issues/4005) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. ℹ️ Labeled issue [#4005](https://github.com/thomasmerz/upptime/issues/4005) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. ℹ️ Labeled issue [#4005](https://github.com/thomasmerz/upptime/issues/4005) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. ❗ Opened issue [#4005](https://github.com/thomasmerz/upptime/issues/4005) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. 🔒 Closed issue [#4004](https://github.com/thomasmerz/upptime/issues/4004) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
