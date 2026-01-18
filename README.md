@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4002](https://github.com/thomasmerz/upptime/issues/4002#issuecomment-3764559206) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2. 🔒 Closed issue [#4002](https://github.com/thomasmerz/upptime/issues/4002) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. ℹ️ Assigned issue [#4002](https://github.com/thomasmerz/upptime/issues/4002) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. ℹ️ Labeled issue [#4002](https://github.com/thomasmerz/upptime/issues/4002) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. ℹ️ Labeled issue [#4002](https://github.com/thomasmerz/upptime/issues/4002) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. ℹ️ Labeled issue [#15607](https://github.com/yt-dlp/yt-dlp/issues/15607) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+2. ℹ️ Labeled issue [#15607](https://github.com/yt-dlp/yt-dlp/issues/15607) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+3. ❗ Opened issue [#15607](https://github.com/yt-dlp/yt-dlp/issues/15607) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+4. 🗣 Commented on [#4002](https://github.com/thomasmerz/upptime/issues/4002#issuecomment-3764559206) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. 🔒 Closed issue [#4002](https://github.com/thomasmerz/upptime/issues/4002) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
