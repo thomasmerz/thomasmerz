@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#4011](https://github.com/thomasmerz/upptime/issues/4011) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2. 🗣 Commented on [#1](https://github.com/panoc/pihole-latency-stats/issues/1#issuecomment-3767384257) in [panoc/pihole-latency-stats](https://github.com/panoc/pihole-latency-stats)
-3. 🔒 Closed issue [#1](https://github.com/panoc/pihole-latency-stats/issues/1) in [panoc/pihole-latency-stats](https://github.com/panoc/pihole-latency-stats)
-4. 🔒 Closed issue [#4011](https://github.com/thomasmerz/upptime/issues/4011) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. 🗣 Commented on [#4011](https://github.com/thomasmerz/upptime/issues/4011#issuecomment-3767110830) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🔒 Closed issue [#4020](https://github.com/thomasmerz/upptime/issues/4020) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. 🗣 Commented on [#4020](https://github.com/thomasmerz/upptime/issues/4020#issuecomment-3792499044) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. 🔒 Closed issue [#4019](https://github.com/thomasmerz/upptime/issues/4019) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. 🗣 Commented on [#4019](https://github.com/thomasmerz/upptime/issues/4019#issuecomment-3792498675) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. 🔒 Closed issue [#4018](https://github.com/thomasmerz/upptime/issues/4018) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
