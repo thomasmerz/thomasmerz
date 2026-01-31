@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.4455267399149" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="311.4455267399149" y="0" width="67.2703965854239" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="378.7159233253388" y="0" width="56.65412692105205" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="435.37005024639086" y="0" width="24.629949753609125" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.4637462479424" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="311.4637462479424" y="0" width="67.27433189168254" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="378.738078139625" y="0" width="56.66672045960688" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="435.40479859923187" y="0" width="24.595201400768165" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
