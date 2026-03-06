@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/thomasmerz/dnspingtest_rrd_ka/pull/5#issuecomment-4005090198) in [thomasmerz/dnspingtest_rrd_ka](https://github.com/thomasmerz/dnspingtest_rrd_ka)
-2. 🗣 Commented on [#4056](https://github.com/thomasmerz/upptime/issues/4056#issuecomment-3998032736) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. 🗣 Commented on [#4056](https://github.com/thomasmerz/upptime/issues/4056#issuecomment-3997983517) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. 🔒 Closed issue [#4056](https://github.com/thomasmerz/upptime/issues/4056) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. ℹ️ Assigned issue [#4056](https://github.com/thomasmerz/upptime/issues/4056) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🗣 Commented on [#4057](https://github.com/thomasmerz/upptime/issues/4057#issuecomment-4009477388) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. 🔒 Closed issue [#4057](https://github.com/thomasmerz/upptime/issues/4057) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. ℹ️ Assigned issue [#4057](https://github.com/thomasmerz/upptime/issues/4057) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. ℹ️ Labeled issue [#4057](https://github.com/thomasmerz/upptime/issues/4057) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. ℹ️ Labeled issue [#4057](https://github.com/thomasmerz/upptime/issues/4057) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
