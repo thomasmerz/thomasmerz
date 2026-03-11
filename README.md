@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4065](https://github.com/thomasmerz/upptime/issues/4065#issuecomment-4037736620) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2. 🗣 Commented on [#4064](https://github.com/thomasmerz/upptime/issues/4064#issuecomment-4037736194) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. 🗣 Commented on [#4063](https://github.com/thomasmerz/upptime/issues/4063#issuecomment-4037735766) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. 🗣 Commented on [#4062](https://github.com/thomasmerz/upptime/issues/4062#issuecomment-4037734626) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. 🗣 Commented on [#9109](https://github.com/mozilla-mobile/firefox-ios/issues/9109#issuecomment-4037720587) in [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios)
+1. 🔒 Closed issue [#4067](https://github.com/thomasmerz/upptime/issues/4067) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. 🗣 Commented on [#4067](https://github.com/thomasmerz/upptime/issues/4067#issuecomment-4038859110) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. ℹ️ Assigned issue [#4067](https://github.com/thomasmerz/upptime/issues/4067) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. ℹ️ Labeled issue [#4067](https://github.com/thomasmerz/upptime/issues/4067) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. ℹ️ Labeled issue [#4067](https://github.com/thomasmerz/upptime/issues/4067) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
