@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/emikulic/darkstat/pull/15#issuecomment-4083482864) in [emikulic/darkstat](https://github.com/emikulic/darkstat)
-2. ℹ️ Labeled issue [#4052](https://github.com/thomasmerz/upptime/issues/4052) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. ℹ️ Unlabeled issue [#4052](https://github.com/thomasmerz/upptime/issues/4052) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. 🗣 Commented on [#4052](https://github.com/thomasmerz/upptime/issues/4052#issuecomment-4045917484) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. 🗣 Commented on [#58867](https://github.com/nextcloud/server/issues/58867#issuecomment-4045522144) in [nextcloud/server](https://github.com/nextcloud/server)
+1. ℹ️ Labeled issue [#59173](https://github.com/nextcloud/server/issues/59173) in [nextcloud/server](https://github.com/nextcloud/server)
+2. ℹ️ Labeled issue [#59173](https://github.com/nextcloud/server/issues/59173) in [nextcloud/server](https://github.com/nextcloud/server)
+3. ❗ Opened issue [#59173](https://github.com/nextcloud/server/issues/59173) in [nextcloud/server](https://github.com/nextcloud/server)
+4. 🗣 Commented on [#15](https://github.com/emikulic/darkstat/pull/15#issuecomment-4083482864) in [emikulic/darkstat](https://github.com/emikulic/darkstat)
+5. ℹ️ Labeled issue [#4052](https://github.com/thomasmerz/upptime/issues/4052) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
