@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35450](https://github.com/nextcloud/server/issues/35450#issuecomment-4223967039) in [nextcloud/server](https://github.com/nextcloud/server)
-2. 🔒 Closed issue [#59563](https://github.com/nextcloud/server/issues/59563) in [nextcloud/server](https://github.com/nextcloud/server)
-3. 🗣 Commented on [#59563](https://github.com/nextcloud/server/issues/59563#issuecomment-4223920775) in [nextcloud/server](https://github.com/nextcloud/server)
-4. ℹ️ Labeled issue [#59563](https://github.com/nextcloud/server/issues/59563) in [nextcloud/server](https://github.com/nextcloud/server)
-5. ℹ️ Labeled issue [#59563](https://github.com/nextcloud/server/issues/59563) in [nextcloud/server](https://github.com/nextcloud/server)
+1. ℹ️ Labeled issue [#4076](https://github.com/thomasmerz/upptime/issues/4076) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. ℹ️ Labeled issue [#4076](https://github.com/thomasmerz/upptime/issues/4076) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. ❗ Opened issue [#4076](https://github.com/thomasmerz/upptime/issues/4076) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. ℹ️ Assigned issue [#4076](https://github.com/thomasmerz/upptime/issues/4076) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. 🗣 Commented on [#35450](https://github.com/nextcloud/server/issues/35450#issuecomment-4223967039) in [nextcloud/server](https://github.com/nextcloud/server)
 <!--END_SECTION:activity-->
 
 ---
