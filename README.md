@@ -17,10 +17,10 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4101](https://github.com/thomasmerz/upptime/pull/4101) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2. 🗣 Commented on [#4100](https://github.com/thomasmerz/upptime/issues/4100#issuecomment-4470083959) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. ℹ️ Assigned issue [#4100](https://github.com/thomasmerz/upptime/issues/4100) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. ℹ️ Labeled issue [#4100](https://github.com/thomasmerz/upptime/issues/4100) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. ℹ️ Labeled issue [#60956](https://github.com/nextcloud/server/issues/60956) in [nextcloud/server](https://github.com/nextcloud/server)
+2. ℹ️ Labeled issue [#60956](https://github.com/nextcloud/server/issues/60956) in [nextcloud/server](https://github.com/nextcloud/server)
+3. ❗ Opened issue [#60956](https://github.com/nextcloud/server/issues/60956) in [nextcloud/server](https://github.com/nextcloud/server)
+4. ❌ Closed PR [#4101](https://github.com/thomasmerz/upptime/pull/4101) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 5. ℹ️ Labeled issue [#4100](https://github.com/thomasmerz/upptime/issues/4100) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
