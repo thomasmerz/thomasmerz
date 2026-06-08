@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2655](https://github.com/wg-easy/wg-easy/issues/2655) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. 🔒 Closed issue [#4104](https://github.com/thomasmerz/upptime/issues/4104) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. 🗣 Commented on [#4104](https://github.com/thomasmerz/upptime/issues/4104#issuecomment-4635584477) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. ℹ️ Labeled issue [#4104](https://github.com/thomasmerz/upptime/issues/4104) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. ℹ️ Labeled issue [#4104](https://github.com/thomasmerz/upptime/issues/4104) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. ℹ️ Assigned issue [#4105](https://github.com/thomasmerz/upptime/issues/4105) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. ℹ️ Labeled issue [#4105](https://github.com/thomasmerz/upptime/issues/4105) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. ℹ️ Labeled issue [#4105](https://github.com/thomasmerz/upptime/issues/4105) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. ❗ Opened issue [#4105](https://github.com/thomasmerz/upptime/issues/4105) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. ❗ Opened issue [#2655](https://github.com/wg-easy/wg-easy/issues/2655) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--END_SECTION:activity-->
 
 ---
