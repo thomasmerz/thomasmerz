@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4111](https://github.com/thomasmerz/upptime/issues/4111) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2. ℹ️ Labeled issue [#1167](https://github.com/upptime/upptime/issues/1167) in [upptime/upptime](https://github.com/upptime/upptime)
-3. 🔒 Closed issue [#4115](https://github.com/thomasmerz/upptime/issues/4115) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. 🔒 Closed issue [#4114](https://github.com/thomasmerz/upptime/issues/4114) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. 🔒 Closed issue [#4113](https://github.com/thomasmerz/upptime/issues/4113) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. ℹ️ Assigned issue [#4117](https://github.com/thomasmerz/upptime/issues/4117) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. ℹ️ Assigned issue [#4116](https://github.com/thomasmerz/upptime/issues/4116) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. ℹ️ Assigned issue [#4114](https://github.com/thomasmerz/upptime/issues/4114) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. ℹ️ Assigned issue [#1167](https://github.com/upptime/upptime/issues/1167) in [upptime/upptime](https://github.com/upptime/upptime)
+5. ℹ️ Assigned issue [#4113](https://github.com/thomasmerz/upptime/issues/4113) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
