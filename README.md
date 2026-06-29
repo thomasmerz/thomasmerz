@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1536](https://github.com/9001/copyparty/issues/1536#issuecomment-4834791687) in [9001/copyparty](https://github.com/9001/copyparty)
-2. ℹ️ Labeled issue [#1536](https://github.com/9001/copyparty/issues/1536) in [9001/copyparty](https://github.com/9001/copyparty)
-3. ❗ Opened issue [#1536](https://github.com/9001/copyparty/issues/1536) in [9001/copyparty](https://github.com/9001/copyparty)
-4. ℹ️ Assigned issue [#1536](https://github.com/9001/copyparty/issues/1536) in [9001/copyparty](https://github.com/9001/copyparty)
-5. 🔒 Closed issue [#4118](https://github.com/thomasmerz/upptime/issues/4118) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🗣 Commented on [#1536](https://github.com/9001/copyparty/issues/1536#issuecomment-4835355070) in [9001/copyparty](https://github.com/9001/copyparty)
+2. 🗣 Commented on [#1536](https://github.com/9001/copyparty/issues/1536#issuecomment-4834791687) in [9001/copyparty](https://github.com/9001/copyparty)
+3. ℹ️ Labeled issue [#1536](https://github.com/9001/copyparty/issues/1536) in [9001/copyparty](https://github.com/9001/copyparty)
+4. ❗ Opened issue [#1536](https://github.com/9001/copyparty/issues/1536) in [9001/copyparty](https://github.com/9001/copyparty)
+5. ℹ️ Assigned issue [#1536](https://github.com/9001/copyparty/issues/1536) in [9001/copyparty](https://github.com/9001/copyparty)
 <!--END_SECTION:activity-->
 
 ---
