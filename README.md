@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1536](https://github.com/9001/copyparty/issues/1536#issuecomment-4835355070) in [9001/copyparty](https://github.com/9001/copyparty)
-2. 🗣 Commented on [#1536](https://github.com/9001/copyparty/issues/1536#issuecomment-4834791687) in [9001/copyparty](https://github.com/9001/copyparty)
-3. ℹ️ Labeled issue [#1536](https://github.com/9001/copyparty/issues/1536) in [9001/copyparty](https://github.com/9001/copyparty)
-4. ❗ Opened issue [#1536](https://github.com/9001/copyparty/issues/1536) in [9001/copyparty](https://github.com/9001/copyparty)
-5. ℹ️ Assigned issue [#1536](https://github.com/9001/copyparty/issues/1536) in [9001/copyparty](https://github.com/9001/copyparty)
+1. 🗣 Commented on [#965](https://github.com/blocklistproject/Lists/issues/965#issuecomment-4845599960) in [blocklistproject/Lists](https://github.com/blocklistproject/Lists)
+2. 🗣 Commented on [#960](https://github.com/blocklistproject/Lists/issues/960#issuecomment-4845595121) in [blocklistproject/Lists](https://github.com/blocklistproject/Lists)
+3. 🗣 Commented on [#958](https://github.com/blocklistproject/Lists/issues/958#issuecomment-4845586904) in [blocklistproject/Lists](https://github.com/blocklistproject/Lists)
+4. 🗣 Commented on [#949](https://github.com/blocklistproject/Lists/issues/949#issuecomment-4845582161) in [blocklistproject/Lists](https://github.com/blocklistproject/Lists)
+5. 🗣 Commented on [#1536](https://github.com/9001/copyparty/issues/1536#issuecomment-4835355070) in [9001/copyparty](https://github.com/9001/copyparty)
 <!--END_SECTION:activity-->
 
 ---
