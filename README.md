@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#4123](https://github.com/thomasmerz/upptime/issues/4123) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2. ℹ️ Labeled issue [#4123](https://github.com/thomasmerz/upptime/issues/4123) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. ❗ Opened issue [#4123](https://github.com/thomasmerz/upptime/issues/4123) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. ℹ️ Assigned issue [#4123](https://github.com/thomasmerz/upptime/issues/4123) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. ℹ️ Assigned issue [#4122](https://github.com/thomasmerz/upptime/issues/4122) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🗣 Commented on [#4120](https://github.com/thomasmerz/upptime/issues/4120#issuecomment-4925894912) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. 🗣 Commented on [#4121](https://github.com/thomasmerz/upptime/issues/4121#issuecomment-4925894383) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. 🗣 Commented on [#4122](https://github.com/thomasmerz/upptime/issues/4122#issuecomment-4925893870) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. 🗣 Commented on [#4123](https://github.com/thomasmerz/upptime/issues/4123#issuecomment-4925891899) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. ℹ️ Labeled issue [#2829](https://github.com/alexjustesen/speedtest-tracker/issues/2829) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
 <!--END_SECTION:activity-->
 
 ---
