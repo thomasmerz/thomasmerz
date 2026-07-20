@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3857](https://github.com/nextcloud/ios/issues/3857#issuecomment-5005995945) in [nextcloud/ios](https://github.com/nextcloud/ios)
-2. 🗣 Commented on [#2829](https://github.com/alexjustesen/speedtest-tracker/issues/2829#issuecomment-4936690990) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
-3. 🗣 Commented on [#3857](https://github.com/nextcloud/ios/issues/3857#issuecomment-4936660784) in [nextcloud/ios](https://github.com/nextcloud/ios)
-4. 🗣 Commented on [#4123](https://github.com/thomasmerz/upptime/issues/4123#issuecomment-4935775300) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. 🔒 Closed issue [#4123](https://github.com/thomasmerz/upptime/issues/4123) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🗣 Commented on [#3857](https://github.com/nextcloud/ios/issues/3857#issuecomment-5020443733) in [nextcloud/ios](https://github.com/nextcloud/ios)
+2. 🗣 Commented on [#3857](https://github.com/nextcloud/ios/issues/3857#issuecomment-5005995945) in [nextcloud/ios](https://github.com/nextcloud/ios)
+3. 🗣 Commented on [#2829](https://github.com/alexjustesen/speedtest-tracker/issues/2829#issuecomment-4936690990) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
+4. 🗣 Commented on [#3857](https://github.com/nextcloud/ios/issues/3857#issuecomment-4936660784) in [nextcloud/ios](https://github.com/nextcloud/ios)
+5. 🗣 Commented on [#4123](https://github.com/thomasmerz/upptime/issues/4123#issuecomment-4935775300) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
