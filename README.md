@@ -17,11 +17,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3857](https://github.com/nextcloud/ios/issues/3857#issuecomment-5020443733) in [nextcloud/ios](https://github.com/nextcloud/ios)
-2. 🗣 Commented on [#3857](https://github.com/nextcloud/ios/issues/3857#issuecomment-5005995945) in [nextcloud/ios](https://github.com/nextcloud/ios)
-3. 🗣 Commented on [#2829](https://github.com/alexjustesen/speedtest-tracker/issues/2829#issuecomment-4936690990) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
-4. 🗣 Commented on [#3857](https://github.com/nextcloud/ios/issues/3857#issuecomment-4936660784) in [nextcloud/ios](https://github.com/nextcloud/ios)
-5. 🗣 Commented on [#4123](https://github.com/thomasmerz/upptime/issues/4123#issuecomment-4935775300) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. ℹ️ Assigned issue [#4127](https://github.com/thomasmerz/upptime/issues/4127) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. ℹ️ Labeled issue [#4127](https://github.com/thomasmerz/upptime/issues/4127) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. ℹ️ Labeled issue [#4127](https://github.com/thomasmerz/upptime/issues/4127) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. ❗ Opened issue [#4127](https://github.com/thomasmerz/upptime/issues/4127) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. ℹ️ Assigned issue [#4126](https://github.com/thomasmerz/upptime/issues/4126) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
