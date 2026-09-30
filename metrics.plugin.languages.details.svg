@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.8423412629186" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="309.8423412629186" y="0" width="66.15432689266208" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="375.99666815558066" y="0" width="56.0977545515717" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="432.0944227071524" y="0" width="27.905577292847653" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.83788643711523" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="309.83788643711523" y="0" width="66.15513941114618" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="375.9930258482614" y="0" width="56.09694799387701" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="432.0899738421384" y="0" width="27.91002615786159" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -49,7 +49,7 @@
                             </div>
                             <small>
                                 <div>127 kB</div>
-                                <div>12.2%</div>
+                                <div>12.19%</div>
                             </small>
                         </div>
                     </section>
@@ -74,7 +74,7 @@
                                 JSON
                             </div>
                             <small>
-                                <div>63.2 kB</div>
+                                <div>63.3 kB</div>
                                 <div>6.07%</div>
                             </small>
                         </div>
