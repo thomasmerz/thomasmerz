@@ -17,8 +17,8 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2538](https://github.com/RPiList/specials/issues/2538) in [RPiList/specials](https://github.com/RPiList/specials)
-2. 🗣 Commented on [#4134](https://github.com/thomasmerz/upptime/issues/4134#issuecomment-5666574541) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🗣 Commented on [#15](https://github.com/thomasmerz/lang-box/pull/15#issuecomment-6140980411) in [thomasmerz/lang-box](https://github.com/thomasmerz/lang-box)
+2. 💪 Opened PR [#14](https://github.com/thomasmerz/lang-box/pull/14) in [thomasmerz/lang-box](https://github.com/thomasmerz/lang-box)
 3. 🗣 Commented on [#4133](https://github.com/thomasmerz/upptime/issues/4133#issuecomment-5666574209) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 4. 🔒 Closed issue [#4134](https://github.com/thomasmerz/upptime/issues/4134) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 5. ℹ️ Assigned issue [#4134](https://github.com/thomasmerz/upptime/issues/4134) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
