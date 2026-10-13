@@ -17,10 +17,10 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/thomasmerz/lang-box/pull/15#issuecomment-6140980411) in [thomasmerz/lang-box](https://github.com/thomasmerz/lang-box)
-2. 💪 Opened PR [#14](https://github.com/thomasmerz/lang-box/pull/14) in [thomasmerz/lang-box](https://github.com/thomasmerz/lang-box)
-3. 🗣 Commented on [#4133](https://github.com/thomasmerz/upptime/issues/4133#issuecomment-5666574209) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. 🔒 Closed issue [#4134](https://github.com/thomasmerz/upptime/issues/4134) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🗣 Commented on [#704](https://github.com/mediathekview/MediathekView/issues/704#issuecomment-6140495606) in [mediathekview/MediathekView](https://github.com/mediathekview/MediathekView)
+2. 🎉 Merged PR [#14](https://github.com/thomasmerz/lang-box/pull/14) in [thomasmerz/lang-box](https://github.com/thomasmerz/lang-box)
+3. 🗣 Commented on [#15](https://github.com/thomasmerz/lang-box/pull/15#issuecomment-6140980411) in [thomasmerz/lang-box](https://github.com/thomasmerz/lang-box)
+4. 💪 Opened PR [#14](https://github.com/thomasmerz/lang-box/pull/14) in [thomasmerz/lang-box](https://github.com/thomasmerz/lang-box)
 5. ℹ️ Assigned issue [#4134](https://github.com/thomasmerz/upptime/issues/4134) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
