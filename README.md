@@ -1,10 +1,12 @@
 ### Welcome to my GitHub Profile!
   
-- See my latest talk at [GPN22](https://media.ccc.de/c/gpn22?sort=date) about #privacy #datenschutz #tracking #malware  
+- See my great talk at [GPN22](https://media.ccc.de/c/gpn22?sort=date) about #privacy #datenschutz #tracking #malware  
   and how to do some digital selfdefense against it  
   by using #opensource tools like #pihole and a #vpn with #wireguard:  
   [Privacy to go (GPN22)](https://github.com/thomasmerz/talks/tree/main/2024_05_30_GPN22_Privacy_to_go)  
   Learn more about the [GPN](https://entropia.de/GPN)!
+- See my latest talk at [KA-IT-Si](https://www.ka-it-si.de/) about #patching and #security #linux servers on Oct, 22nd 2026:  
+  Automatisierte Betriebssystem-Updates für Linux-Server im großen Maßstab or [Patch me, if you can!](https://github.com/thomasmerz/talks/tree/main/2026_10_22_KA-IT-Si_Patching_as_a_Service_Linux_Server_and_Container)
 - Married, dad of three boys
 - 🐧 Linux since 1994
 - 🚫 No Windows please!
