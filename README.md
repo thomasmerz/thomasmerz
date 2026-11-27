@@ -19,11 +19,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4165](https://github.com/thomasmerz/upptime/issues/4165#issuecomment-7048112234) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-2. 🔒 Closed issue [#4165](https://github.com/thomasmerz/upptime/issues/4165) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-3. ℹ️ Assigned issue [#4165](https://github.com/thomasmerz/upptime/issues/4165) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-4. ℹ️ Labeled issue [#4165](https://github.com/thomasmerz/upptime/issues/4165) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
-5. ℹ️ Labeled issue [#4165](https://github.com/thomasmerz/upptime/issues/4165) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+1. 🗣 Commented on [#4172](https://github.com/thomasmerz/upptime/issues/4172#issuecomment-7226266377) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+2. 🔒 Closed issue [#4172](https://github.com/thomasmerz/upptime/issues/4172) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+3. ℹ️ Assigned issue [#4172](https://github.com/thomasmerz/upptime/issues/4172) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+4. ℹ️ Labeled issue [#4172](https://github.com/thomasmerz/upptime/issues/4172) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
+5. ℹ️ Labeled issue [#4172](https://github.com/thomasmerz/upptime/issues/4172) in [thomasmerz/upptime](https://github.com/thomasmerz/upptime)
 <!--END_SECTION:activity-->
 
 ---
